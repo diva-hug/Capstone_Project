@@ -331,4 +331,6 @@ joblib.dump and reloaded with joblib.load at the end of
 02_modeling.py. The reload step predicts on raw, unpreprocessed rows
 from X_test and prints the predicted class and probability for each
 row, confirming that the saved pipeline is usable end-to-end on raw
-new data without any manual preprocessing.
+new data without any manual preprocessing. 
+ E n d   o f   M o d u l e   2   R E A D M E .  
+ 
